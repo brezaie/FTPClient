@@ -1,0 +1,46 @@
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Form1.resources
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Properties.Resources.resources
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+C:\Users\Behzad\Desktop\Everything\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+F:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+F:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+H:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+H:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+M:\Network\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+M:\Network\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Form1.resources
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Properties.Resources.resources
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Network\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Form1.resources
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Properties.Resources.resources
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Behzad\Desktop\FTPClient\FTPClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Form1.resources
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Properties.Resources.resources
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.csproj.GenerateResource.Cache
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+D:\Documents\Documents\University Documents\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.csprojResolveAssemblyReference.cache
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Form1.resources
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.Properties.Resources.resources
+D:\Document\University\B.Sc\6thTerm\Network1\FTP client\FTPClient\FTPClient\obj\x86\Debug\FTPClient.csproj.GenerateResource.Cache
